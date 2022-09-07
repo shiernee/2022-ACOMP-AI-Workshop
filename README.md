@@ -10,5 +10,5 @@ This repository is created for 2022 ACOMP AI Workshop.
 <b>Lecturers:</b>	Dr. Shier Nee Saw & Dr. Mustafa Umit Oner<br>
 
 
-Refer to workshop poster <a href="https://github.com/shiernee/2022-ACOMP-AI-Workshop/blob/main/ACOMP_poster_2022.pdf">here</a> 
+Refer to workshop poster <a href="https://github.com/shiernee/2022-ACOMP-AI-Workshop/blob/main/ACOMP_poster_2022.pdf">here</a>  <br>
 Disclaimer: Part of the materials are derived from https://github.com/shiernee/AI_Tutorial.
